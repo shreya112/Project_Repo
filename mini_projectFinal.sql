@@ -178,6 +178,7 @@ INSERT INTO admin VALUES(1,'sasidhar','password1');
 INSERT INTO admin VALUES(2,'pranay','password2');
 INSERT INTO admin VALUES(3,'shreya','password3');
 INSERT INTO admin VALUES(4,'harishma','password4');
+INSERT INTO admin VALUES(5,'ramu','password5');
 
 
 
