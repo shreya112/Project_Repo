@@ -215,36 +215,6 @@ INSERT INTO user_details VALUES(29,'stend','Sachin','Tendulkar','sachin@outlook.
 INSERT INTO user_details VALUES(30,'vkohli','Virat','Kohli','virat@outlook.com','virat@123','09-09-1991',8798747333,2500);
 
 
-INSERT INTO user_details VALUES(31,'psharma','Pranay','Sharma','pranay@gmail.com','pranay@123','06-01-1982',9876543211,1000);
-INSERT INTO user_details VALUES(32,'sghosal','Shreya','ghosal','shreya@gmail.com','shreya@123','25-04-1993',9876543212,1100);
-INSERT INTO user_details VALUES(33,'shardak','Sharda','Karunakaran','sharda@gmail.com','sharda@123','12-02-1995',9876543213,1200);
-INSERT INTO user_details VALUES(34,'harish','Harish','Shende','harish@gmail.com','harish@123','17-11-2001',9876543214,1300);
-INSERT INTO user_details VALUES(35,'john','John','Nile','john@gmail.com','john@123','23-01-2012',9876543215,1400);
-INSERT INTO user_details VALUES(36,'rsharma','Rohnish','Sharma','roni@gmail.com','roni@123','30-05-1999',9876543216,1500);
-INSERT INTO user_details VALUES(37,'vermas','shraddha','Verma','shraddha@gmail.com','shraddha@123','06-08-1994',9876543217,1600);
-INSERT INTO user_details VALUES(38,'msdhoni','Mahi','Dhoni','mahi@gmail.com','mahi@123','09-09-1990',9876543218,1700);
-INSERT INTO user_details VALUES(39,'aman','aman','sharma','aman@gmail.com','ben@123','23-01-1984',9899543211,1800);
-INSERT INTO user_details VALUES(40,'vaishu','vaishu','Patil','vaishu@gmail.com','vaishu@123','25-08-1993',9888543212,1900);
-INSERT INTO user_details VALUES(41,'patil','Prerna','patil','prerna@gmail.com','prerna@123','02-02-1995',9843543213,2000);
-INSERT INTO user_details VALUES(42,'rkhan','Rashi','Khan','rashi@gmail.com','rashi@123','11-11-2001',9854543214,2100);
-INSERT INTO user_details VALUES(43,'raman','ghode','ghode','raman@gmail.com','ellyse@123','23-11-2011',9865543215,2200);
-INSERT INTO user_details VALUES(44,'staylorSteve','Steve','Taylor','steve@outlook.com','steve@123','16-09-1999',9821543216,2300);
-INSERT INTO user_details VALUES(45,'kane','william','William','kane@gmail.com','kane@123','06-12-1994',9867543217,2400);
-INSERT INTO user_details VALUES(46,'jroot','Joy','Root','joy@outlook.com','joe@123','09-11-1990',9877643218,2500);
-INSERT INTO user_details VALUES(47,'smandhana','Surshti','Mandhana','mandhana@outlook.com','mandhana@123','25-06-1998',9888543212,1900);
-INSERT INTO user_details VALUES(48,'rburns','Roy','Burns','rory@yahoo.com','rory@123','22-02-1995',9843543213,2000);
-INSERT INTO user_details VALUES(49,'jhyer','Jhye','Riya','riya@yahoo.com','jhye@123','11-11-2011',9854543214,2100);
-INSERT INTO user_details VALUES(50,'vilas','vilas','Pukovski','vilas@gmail.com','vilas@123','23-12-2001',9865543215,2200);
-INSERT INTO user_details VALUES(51,'jDas','Jason','Das','jason@yahoo.com','jason@123','16-09-1989',9821543216,2300);
-INSERT INTO user_details VALUES(52,'jroy','Jason','Roy','roy@yahoo.com','roy@123','06-12-1994',9867543217,2400);
-INSERT INTO user_details VALUES(53,'aparajay','Aparana','Jay','aparana@outlook.com','apara@123','09-09-1990',9877643218,2500);
-INSERT INTO user_details VALUES(54,'vaishanvi','bhende','bhende','vaishu@gmail.com','vaishu@123','08-10-1995',9584731286,1000);
-INSERT INTO user_details VALUES(55,'kunal','Kane','Kammal','kunal@yahoo.com','kane@123','08-09-1990',9877643218,2500);
-INSERT INTO user_details VALUES(56,'rohan','Rohan','bhende','rohan@yahoo.com','rohan@123','09-10-1990',9982718338,2500);
-INSERT INTO user_details VALUES(57,'nikil','Nikil','Patil','nikil@yahoo.com','nike@123','09-10-1990',9875823871,2000);
-INSERT INTO user_details VALUES(58,'sahil','sahil','Verma','sahil@outlook.com','pass23','30-12-1990',8755991823,2500);
-INSERT INTO user_details VALUES(59,'sdas','Sachin','Das','sachin@outlook.com','pass23','09-09-1991',8874512736,2000);
-INSERT INTO user_details VALUES(60,'vrkohli','Viraj','Kohli','viraj@outlook.com','viraj@123','09-09-1991',8798747333,2500);
 
 
 
@@ -282,36 +252,6 @@ INSERT INTO bank_account VALUES(28,'indian overseas bank',35000,6);
 INSERT INTO bank_account VALUES(29,'ICICI',20000,7);
 INSERT INTO bank_account VALUES(30,'indian overseas bank',15000,6);
 
-INSERT INTO bank_account VALUES(31,'kotak',20000,42);
-INSERT INTO bank_account VALUES(32,'canara bank',35000,13);
-INSERT INTO bank_account VALUES(33,'citibank',50000,21);
-INSERT INTO bank_account VALUES(34,'indian overseas bank',75000,32);
-INSERT INTO bank_account VALUES(35,'state bank of india',25000,24);
-INSERT INTO bank_account VALUES(36,'HDFC',30000,27);
-INSERT INTO bank_account VALUES(37,'kotak',40000,23);
-INSERT INTO bank_account VALUES(38,'indian overseas bank',25000,26);
-INSERT INTO bank_account VALUES(39,'citibank',30000,8);
-INSERT INTO bank_account VALUES(40,'ICICI',20000,1);
-INSERT INTO bank_account VALUES(41,'state bank of india',60000,25);
-INSERT INTO bank_account VALUES(42,'indian overseas bank',40000,7);
-INSERT INTO bank_account VALUES(43,'SBI',10000,6);
-INSERT INTO bank_account VALUES(44,'state bank of india',45000,5);
-INSERT INTO bank_account VALUES(45,'HDFC',30000,7);
-INSERT INTO bank_account VALUES(46,'indian overseas bank',35000,6);
-INSERT INTO bank_account VALUES(47,'ICICI',60000,5);
-INSERT INTO bank_account VALUES(48,'indian overseas bank',40000,47);
-INSERT INTO bank_account VALUES(49,'citibank',10000,6);
-INSERT INTO bank_account VALUES(50,'state bank of india',45000,5);
-INSERT INTO bank_account VALUES(51,'HDFC',30000,7);
-INSERT INTO bank_account VALUES(52,'indian overseas bank',35000,6);
-INSERT INTO bank_account VALUES(53,'state bank of india',60000,5);
-INSERT INTO bank_account VALUES(54,'HDFC',40000,37);
-INSERT INTO bank_account VALUES(55,'SBI',10000,16);
-INSERT INTO bank_account VALUES(56,'state bank of india',45000,45);
-INSERT INTO bank_account VALUES(57,'HDFC',30000,7);
-INSERT INTO bank_account VALUES(58,'indian overseas bank',35000,46);
-INSERT INTO bank_account VALUES(59,'ICICI',20000,7);
-INSERT INTO bank_account VALUES(60,'indian overseas bank',15000,6);
 
 
 
@@ -353,27 +293,6 @@ INSERT INTO flight VALUES(28,'Pinnacle Air');
 INSERT INTO flight VALUES(29,'Jal Hans');
 INSERT INTO flight VALUES(30,'Dove Airlines');
 
-INSERT INTO flight VALUES(31,'indigo');
-INSERT INTO flight VALUES(32,'spice jet');
-INSERT INTO flight VALUES(33,'air india');
-INSERT INTO flight VALUES(34,'jet airways');
-INSERT INTO flight VALUES(35,'kingfisher');
-INSERT INTO flight VALUES(36,'GoAir');
-INSERT INTO flight VALUES(37,'Vistara');
-INSERT INTO flight VALUES(38,'AirAsia India');
-INSERT INTO flight VALUES(39,'Alliance Air');
-INSERT INTO flight VALUES(40,'TruJet');
-INSERT INTO flight VALUES(41,'Qatar Airways');
-INSERT INTO flight VALUES(42,'Airlines USA');
-INSERT INTO flight VALUES(43,'Etihad Airways');
-INSERT INTO flight VALUES(44,'Air Arabia');
-INSERT INTO flight VALUES(45,'Zoom Air');
-INSERT INTO flight VALUES(46,'FlyBig');
-INSERT INTO flight VALUES(47,'Air Deccan');
-INSERT INTO flight VALUES(48,'Air Heritage');
-INSERT INTO flight VALUES(49,'Club One Air');
-INSERT INTO flight VALUES(50,'Spirit Air');
-INSERT INTO flight VALUES(51,'Spirit Airlines ');
 
 
 
